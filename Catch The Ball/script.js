@@ -1,7 +1,8 @@
 // 🎮 Juego: Catch the Ball
 // Explicación: Mueves una barra con el mouse para atrapar una bola que cae.
 // Si la atrapas, ganas puntos. Si no, se reinicia el juego.
-
+//cambio
+//yo hice un cambio
 
 const canvas = document.getElementById("gameCanvas");
 const ctx = canvas.getContext("2d");
